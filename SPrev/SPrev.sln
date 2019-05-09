@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPrev", "SPrev\SPrev.csproj", "{1976ED49-C21B-4D58-80FD-146FF3A9F8B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPrev_Test", "SPrev_Test\SPrev_Test.csproj", "{A60E2427-2BEE-4862-B5A3-F875383A931B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1976ED49-C21B-4D58-80FD-146FF3A9F8B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1976ED49-C21B-4D58-80FD-146FF3A9F8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1976ED49-C21B-4D58-80FD-146FF3A9F8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1976ED49-C21B-4D58-80FD-146FF3A9F8B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A60E2427-2BEE-4862-B5A3-F875383A931B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60E2427-2BEE-4862-B5A3-F875383A931B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60E2427-2BEE-4862-B5A3-F875383A931B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60E2427-2BEE-4862-B5A3-F875383A931B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27108471-96CA-4E45-84BD-3C04C30C900F}
+	EndGlobalSection
+EndGlobal

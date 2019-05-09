@@ -1,0 +1,9 @@
+C:\Users\Vitor\source\repos\SPrevCurso\SPrevCurso\bin\Debug\netstandard2.0\SPrevCurso.deps.json
+C:\Users\Vitor\source\repos\SPrevCurso\SPrevCurso\bin\Debug\netstandard2.0\SPrevCurso.dll
+C:\Users\Vitor\source\repos\SPrevCurso\SPrevCurso\bin\Debug\netstandard2.0\SPrevCurso.pdb
+C:\Users\Vitor\source\repos\SPrevCurso\SPrevCurso\obj\Debug\netstandard2.0\SPrevCurso.csprojAssemblyReference.cache
+C:\Users\Vitor\source\repos\SPrevCurso\SPrevCurso\obj\Debug\netstandard2.0\SPrevCurso.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\source\repos\SPrevCurso\SPrevCurso\obj\Debug\netstandard2.0\SPrevCurso.AssemblyInfoInputs.cache
+C:\Users\Vitor\source\repos\SPrevCurso\SPrevCurso\obj\Debug\netstandard2.0\SPrevCurso.AssemblyInfo.cs
+C:\Users\Vitor\source\repos\SPrevCurso\SPrevCurso\obj\Debug\netstandard2.0\SPrevCurso.dll
+C:\Users\Vitor\source\repos\SPrevCurso\SPrevCurso\obj\Debug\netstandard2.0\SPrevCurso.pdb

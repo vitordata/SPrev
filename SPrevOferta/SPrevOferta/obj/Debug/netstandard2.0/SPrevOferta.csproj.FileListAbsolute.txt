@@ -1,0 +1,9 @@
+C:\Users\Vitor\source\repos\SPrevOferta\SPrevOferta\bin\Debug\netstandard2.0\SPrevOferta.deps.json
+C:\Users\Vitor\source\repos\SPrevOferta\SPrevOferta\bin\Debug\netstandard2.0\SPrevOferta.dll
+C:\Users\Vitor\source\repos\SPrevOferta\SPrevOferta\bin\Debug\netstandard2.0\SPrevOferta.pdb
+C:\Users\Vitor\source\repos\SPrevOferta\SPrevOferta\obj\Debug\netstandard2.0\SPrevOferta.csprojAssemblyReference.cache
+C:\Users\Vitor\source\repos\SPrevOferta\SPrevOferta\obj\Debug\netstandard2.0\SPrevOferta.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\source\repos\SPrevOferta\SPrevOferta\obj\Debug\netstandard2.0\SPrevOferta.AssemblyInfoInputs.cache
+C:\Users\Vitor\source\repos\SPrevOferta\SPrevOferta\obj\Debug\netstandard2.0\SPrevOferta.AssemblyInfo.cs
+C:\Users\Vitor\source\repos\SPrevOferta\SPrevOferta\obj\Debug\netstandard2.0\SPrevOferta.dll
+C:\Users\Vitor\source\repos\SPrevOferta\SPrevOferta\obj\Debug\netstandard2.0\SPrevOferta.pdb

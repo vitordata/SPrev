@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPrevTurma", "SPrevTurma\SPrevTurma.csproj", "{DDB45F26-18B6-4B18-862D-380AA6D5AD55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPrevTurma_Teste", "SPrevTurma_Teste\SPrevTurma_Teste.csproj", "{E17E8D35-E7B9-49DA-9196-92AC831883DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB45F26-18B6-4B18-862D-380AA6D5AD55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB45F26-18B6-4B18-862D-380AA6D5AD55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB45F26-18B6-4B18-862D-380AA6D5AD55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB45F26-18B6-4B18-862D-380AA6D5AD55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E17E8D35-E7B9-49DA-9196-92AC831883DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17E8D35-E7B9-49DA-9196-92AC831883DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17E8D35-E7B9-49DA-9196-92AC831883DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17E8D35-E7B9-49DA-9196-92AC831883DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1207DD81-2461-403E-8EE4-0D1121334C55}
+	EndGlobalSection
+EndGlobal

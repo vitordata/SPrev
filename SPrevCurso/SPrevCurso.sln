@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPrevCurso", "SPrevCurso\SPrevCurso.csproj", "{4F6C9374-9DE0-4420-B1DD-45A7C9A28A95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPrevCurso_Teste", "Curso_Teste\SPrevCurso_Teste.csproj", "{81877BB7-060A-42FF-9311-4714F95BD39C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F6C9374-9DE0-4420-B1DD-45A7C9A28A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F6C9374-9DE0-4420-B1DD-45A7C9A28A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F6C9374-9DE0-4420-B1DD-45A7C9A28A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F6C9374-9DE0-4420-B1DD-45A7C9A28A95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81877BB7-060A-42FF-9311-4714F95BD39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81877BB7-060A-42FF-9311-4714F95BD39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81877BB7-060A-42FF-9311-4714F95BD39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81877BB7-060A-42FF-9311-4714F95BD39C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1708D30-9B4A-4C3C-996B-E3FA88ACF58D}
+	EndGlobalSection
+EndGlobal

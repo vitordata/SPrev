@@ -1,0 +1,9 @@
+C:\Users\Vitor\source\repos\SPrev\SPrev\bin\Debug\netstandard2.0\SPrev.deps.json
+C:\Users\Vitor\source\repos\SPrev\SPrev\bin\Debug\netstandard2.0\SPrev.dll
+C:\Users\Vitor\source\repos\SPrev\SPrev\bin\Debug\netstandard2.0\SPrev.pdb
+C:\Users\Vitor\source\repos\SPrev\SPrev\obj\Debug\netstandard2.0\SPrev.csprojAssemblyReference.cache
+C:\Users\Vitor\source\repos\SPrev\SPrev\obj\Debug\netstandard2.0\SPrev.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\source\repos\SPrev\SPrev\obj\Debug\netstandard2.0\SPrev.AssemblyInfoInputs.cache
+C:\Users\Vitor\source\repos\SPrev\SPrev\obj\Debug\netstandard2.0\SPrev.AssemblyInfo.cs
+C:\Users\Vitor\source\repos\SPrev\SPrev\obj\Debug\netstandard2.0\SPrev.dll
+C:\Users\Vitor\source\repos\SPrev\SPrev\obj\Debug\netstandard2.0\SPrev.pdb

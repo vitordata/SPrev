@@ -1,0 +1,16 @@
+C:\Users\Vitor\source\repos\SPrevCurso\Curso_Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Vitor\source\repos\SPrevCurso\Curso_Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Vitor\source\repos\SPrevCurso\Curso_Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Vitor\source\repos\SPrevCurso\Curso_Teste\bin\Debug\Curso_Teste.dll
+C:\Users\Vitor\source\repos\SPrevCurso\Curso_Teste\bin\Debug\Curso_Teste.pdb
+C:\Users\Vitor\source\repos\SPrevCurso\Curso_Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Vitor\source\repos\SPrevCurso\Curso_Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Vitor\source\repos\SPrevCurso\Curso_Teste\bin\Debug\SPrevCurso.dll
+C:\Users\Vitor\source\repos\SPrevCurso\Curso_Teste\bin\Debug\SPrevCurso.pdb
+C:\Users\Vitor\source\repos\SPrevCurso\Curso_Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Vitor\source\repos\SPrevCurso\Curso_Teste\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Vitor\source\repos\SPrevCurso\Curso_Teste\obj\Debug\SPrevCurso_Teste.csprojAssemblyReference.cache
+C:\Users\Vitor\source\repos\SPrevCurso\Curso_Teste\obj\Debug\SPrevCurso_Teste.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\source\repos\SPrevCurso\Curso_Teste\obj\Debug\SPrevCurso_Teste.csproj.CopyComplete
+C:\Users\Vitor\source\repos\SPrevCurso\Curso_Teste\obj\Debug\Curso_Teste.dll
+C:\Users\Vitor\source\repos\SPrevCurso\Curso_Teste\obj\Debug\Curso_Teste.pdb
